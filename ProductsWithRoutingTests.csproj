@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\taskrouting-nrevutska-tea\ProductsWithRouting.csproj" />
+    <ProjectReference Include="..\taskrouting-nrevutska-team\ProductsWithRouting.csproj" />
   </ItemGroup>
 
 </Project>
